@@ -9,7 +9,7 @@ import (
 	"fmt"
 )
 
-func main () {
+func main() {
 	var userInteger int
 
 	// input
