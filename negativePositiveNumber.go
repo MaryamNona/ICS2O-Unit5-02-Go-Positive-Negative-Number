@@ -11,7 +11,7 @@ import (
 
 func main () {
 	var userGuess int
-	
+
 	// input
 	fmt.Println("This program chooses a random number between 1-6 ")
 	fmt.Println()
